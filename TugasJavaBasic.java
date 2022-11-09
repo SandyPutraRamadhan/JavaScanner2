@@ -16,6 +16,9 @@ public class TugasJavaBasic {
         String Uppercase = "";
         String LowerCase = "";
         String Reverse = "";
+        float cel;
+        float Reamur;
+        float Fahrenheit;
         int rahasia;
         int Pin;
         int menu = 1;
@@ -26,9 +29,6 @@ public class TugasJavaBasic {
         int Lebar;
         int Berat;
         int gram;
-        float cel;
-        float Reamur;
-        float Fahrenheit;
         int sisi;
         int all;
         int a;
